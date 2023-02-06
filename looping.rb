@@ -1,8 +1,8 @@
 def happy_new_year
-  i = 10
-  until i == 0
-    puts i
-    i -= 1
+  num = 10
+  until num == 0
+    puts num
+    num -= 1
   end
   puts "Happy New Year!"
 end
